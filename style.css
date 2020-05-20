@@ -15,10 +15,10 @@ p{
     color: blue;
 }
 .half-width{
-    width: 38%;
+    width: 40%;
     float: left;
-    margin-left: 4%;
-    padding: 3%;
+    margin-left: 5%;
+    padding-left: 3%;
 }
 .half-width img{
     width: 100%;
@@ -63,7 +63,7 @@ section{
     border-image: linear-gradient( 180deg, lightsalmon, tomato);
     border-image-slice: 1;
 }
-#amature-web{
+#amateur-web{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
